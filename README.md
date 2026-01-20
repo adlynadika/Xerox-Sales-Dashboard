@@ -18,7 +18,7 @@ This project explores **sales data from 2014–2017**, focusing on overall perfo
 
 ## Screenshots
 ### Light Mode
-![Light Mode Dashboard](images/dashboard_light.png)
+![Light Mode Dashboard](xerox_lightmode.png)
 
 ### Dark Mode
 ![Dark Mode Dashboard](images/dashboard_dark.png)
