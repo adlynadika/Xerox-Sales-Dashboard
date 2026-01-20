@@ -1,9 +1,9 @@
-# Xerox Malaysia Sales Dashboard (2017–2018)
+# Xerox Malaysia Sales Dashboard (2014–2017)
 
 📊 An interactive Tableau dashboard analyzing sales performance across Malaysia, designed to highlight key business insights with a clean, user-friendly interface.
 
 ## Overview
-This project explores **sales data from 2017–2018**, focusing on overall performance and customer behavior. The dashboard was built to support decision-making by combining **data analysis** with **visual storytelling**.
+This project explores **sales data from 2014–2017**, focusing on overall performance and customer behavior. The dashboard was built to support decision-making by combining **data analysis** with **visual storytelling**.
 
 ## Key Insights
 - **Total Sales, Profit, and Quantity**: Summarized KPIs for quick performance tracking.
@@ -24,7 +24,7 @@ This project explores **sales data from 2017–2018**, focusing on overall perfo
 - UI/UX Enhancements (filters, dark mode)
 
 ## Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/views/YourDashboardLink)
+👉 [View on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard-Light?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
