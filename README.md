@@ -31,4 +31,4 @@ This project explores **sales data from 2014–2017**, focusing on overall perfo
 - UI/UX Enhancements (filters, dark mode)
 
 ## Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard)
+👉 [View on Tableau Public](https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard-Light?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
