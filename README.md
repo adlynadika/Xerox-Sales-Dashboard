@@ -18,10 +18,10 @@ This project explores **sales data from 2014–2017**, focusing on overall perfo
 
 ## Screenshots
 ### Light Mode
-![Light Mode Dashboard](xerox_lightmode.png)
+![Light Mode Dashboard](xerox_lightmode.PNG)
 
 ### Dark Mode
-![Dark Mode Dashboard](images/dashboard_dark.png)
+![Dark Mode Dashboard](xerox_darkmode.PNG)
 
 ## Skills Highlighted
 - Data Cleaning & Transformation  
@@ -31,4 +31,4 @@ This project explores **sales data from 2014–2017**, focusing on overall perfo
 - UI/UX Enhancements (filters, dark mode)
 
 ## Live Dashboard
-👉 [View on Tableau Public]([https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard-Dark])
+👉 [View on Tableau Public](https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard)
