@@ -16,16 +16,19 @@ This project explores **sales data from 2014–2017**, focusing on overall perfo
 - 🌙 **Dark Mode Toggle**: Enhanced accessibility and user experience with light/dark mode options.
 - 📈 **Dynamic Visuals**: Clear charts and maps for intuitive storytelling.
 
+## Screenshots
+### Light Mode
+![Light Mode Dashboard](images/dashboard_light.png)
+
+### Dark Mode
+![Dark Mode Dashboard](images/dashboard_dark.png)
+
 ## Skills Highlighted
-- Data Cleaning & Transformation
-- Tableau Dashboard Design
-- Business Intelligence & Storytelling
-- Customer Profiling & Trend Analysis
+- Data Cleaning & Transformation  
+- Tableau Dashboard Design  
+- Business Intelligence & Storytelling  
+- Customer Profiling & Trend Analysis  
 - UI/UX Enhancements (filters, dark mode)
 
 ## Live Dashboard
-👉 [View on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/XeroxSalesPerformanceDashboard/XeroxSalesDashboard-Light?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
----
-
-
+👉 [View on Tableau Public](https://public.tableau.com/views/YourDashboardLink)
